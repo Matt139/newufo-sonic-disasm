@@ -1,0 +1,17 @@
+Sound IDs:
+$80 - mute
+$81 - standard new ufo tune (unused)
+$82 - secondary standard new ufo tune (unused)
+$83 - marble zone
+$84 - star light zone
+$85 - spring yard zone (unused)
+$86 - scrap brain zone
+$87 - invincibility
+$96 - select mode sfx (?)
+$97 - select mode sfx
+$98 - move crane sfx (?)
+$99 - victory sfx (?)
+$9A - victory sfx (?)
+$9B - victory sfx (?) 
+$A0 - panic sfx (?)   
+$A2 - error sfx (?)
